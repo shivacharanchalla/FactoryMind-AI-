@@ -1,0 +1,26 @@
+[
+  {
+    "machine_id":"MACH-001",
+    "operation_type":"CUT"
+  },
+  {
+    "machine_id":"MACH-002",
+    "operation_type":"DRILL"
+  },
+  {
+    "machine_id":"MACH-003",
+    "operation_type":"ASSEMBLE"
+  },
+  {
+    "machine_id":"MACH-003",
+    "operation_type":"INSPECT"
+  },
+  {
+    "machine_id":"MACH-004",
+    "operation_type":"CUT"
+  },
+  {
+    "machine_id":"MACH-005",
+    "operation_type":"DRILL"
+  }
+]

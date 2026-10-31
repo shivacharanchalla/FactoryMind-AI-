@@ -1,0 +1,6 @@
+machine_id,machine_name,capability,capacity_units_per_hour,status,crew_required
+MACH-001,Machine 001,CUT,10,ACTIVE,1
+MACH-002,Machine 002,DRILL,15,ACTIVE,1
+MACH-003,Machine 003,ASSEMBLE,19,ACTIVE,1
+MACH-004,Machine 004,CUT,21,ACTIVE,1
+MACH-005,Machine 005,DRILL,22,ACTIVE,1

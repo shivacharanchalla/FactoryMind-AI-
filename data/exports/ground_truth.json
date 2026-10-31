@@ -1,0 +1,37 @@
+[
+  {
+    "case_id":"GT-001",
+    "issue_type":"MACHINE_OVERLAP",
+    "severity":"HIGH",
+    "expected_detection":true,
+    "description":"Two operations overlap on one machine."
+  },
+  {
+    "case_id":"GT-002",
+    "issue_type":"PRECEDENCE_VIOLATION",
+    "severity":"HIGH",
+    "expected_detection":true,
+    "description":"A downstream operation starts before its predecessor finishes."
+  },
+  {
+    "case_id":"GT-003",
+    "issue_type":"MATERIAL_BEFORE_AVAILABILITY",
+    "severity":"HIGH",
+    "expected_detection":true,
+    "description":"An operation consumes material before its inventory lot is available."
+  },
+  {
+    "case_id":"GT-004",
+    "issue_type":"OUTSIDE_SHIFT",
+    "severity":"MEDIUM",
+    "expected_detection":true,
+    "description":"An operation is scheduled outside a machine shift."
+  },
+  {
+    "case_id":"GT-005",
+    "issue_type":"CHANGEOVER_OMITTED",
+    "severity":"MEDIUM",
+    "expected_detection":true,
+    "description":"A sequence-dependent setup interval is omitted."
+  }
+]

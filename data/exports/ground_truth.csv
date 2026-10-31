@@ -1,0 +1,6 @@
+case_id,issue_type,severity,expected_detection,description
+GT-001,MACHINE_OVERLAP,HIGH,True,Two operations overlap on one machine.
+GT-002,PRECEDENCE_VIOLATION,HIGH,True,A downstream operation starts before its predecessor finishes.
+GT-003,MATERIAL_BEFORE_AVAILABILITY,HIGH,True,An operation consumes material before its inventory lot is available.
+GT-004,OUTSIDE_SHIFT,MEDIUM,True,An operation is scheduled outside a machine shift.
+GT-005,CHANGEOVER_OMITTED,MEDIUM,True,A sequence-dependent setup interval is omitted.

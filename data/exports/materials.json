@@ -1,0 +1,122 @@
+[
+  {
+    "material_id":"MAT-0001",
+    "material_name":"Raw material 001",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0002",
+    "material_name":"Raw material 002",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0003",
+    "material_name":"Raw material 003",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0004",
+    "material_name":"Raw material 004",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0005",
+    "material_name":"Raw material 005",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0006",
+    "material_name":"Raw material 006",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0007",
+    "material_name":"Raw material 007",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0008",
+    "material_name":"Raw material 008",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0009",
+    "material_name":"Raw material 009",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0010",
+    "material_name":"Raw material 010",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0011",
+    "material_name":"Raw material 011",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0012",
+    "material_name":"Raw material 012",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0013",
+    "material_name":"Raw material 013",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0014",
+    "material_name":"Raw material 014",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0015",
+    "material_name":"Raw material 015",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0016",
+    "material_name":"Raw material 016",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0017",
+    "material_name":"Raw material 017",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0018",
+    "material_name":"Raw material 018",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0019",
+    "material_name":"Raw material 019",
+    "unit":"kg",
+    "active":true
+  },
+  {
+    "material_id":"MAT-0020",
+    "material_name":"Raw material 020",
+    "unit":"kg",
+    "active":true
+  }
+]

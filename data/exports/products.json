@@ -1,0 +1,82 @@
+[
+  {
+    "product_id":"PROD-2026-000001",
+    "sku":"SKU-0001",
+    "product_name":"Product 001",
+    "family":"FAM-01",
+    "active":true,
+    "created_at":"2026-01-01T00:00:00"
+  },
+  {
+    "product_id":"PROD-2026-000002",
+    "sku":"SKU-0002",
+    "product_name":"Product 002",
+    "family":"FAM-02",
+    "active":true,
+    "created_at":"2026-01-01T00:00:00"
+  },
+  {
+    "product_id":"PROD-2026-000003",
+    "sku":"SKU-0003",
+    "product_name":"Product 003",
+    "family":"FAM-03",
+    "active":true,
+    "created_at":"2026-01-01T00:00:00"
+  },
+  {
+    "product_id":"PROD-2026-000004",
+    "sku":"SKU-0004",
+    "product_name":"Product 004",
+    "family":"FAM-04",
+    "active":true,
+    "created_at":"2026-01-01T00:00:00"
+  },
+  {
+    "product_id":"PROD-2026-000005",
+    "sku":"SKU-0005",
+    "product_name":"Product 005",
+    "family":"FAM-05",
+    "active":true,
+    "created_at":"2026-01-01T00:00:00"
+  },
+  {
+    "product_id":"PROD-2026-000006",
+    "sku":"SKU-0006",
+    "product_name":"Product 006",
+    "family":"FAM-01",
+    "active":true,
+    "created_at":"2026-01-01T00:00:00"
+  },
+  {
+    "product_id":"PROD-2026-000007",
+    "sku":"SKU-0007",
+    "product_name":"Product 007",
+    "family":"FAM-02",
+    "active":true,
+    "created_at":"2026-01-01T00:00:00"
+  },
+  {
+    "product_id":"PROD-2026-000008",
+    "sku":"SKU-0008",
+    "product_name":"Product 008",
+    "family":"FAM-03",
+    "active":true,
+    "created_at":"2026-01-01T00:00:00"
+  },
+  {
+    "product_id":"PROD-2026-000009",
+    "sku":"SKU-0009",
+    "product_name":"Product 009",
+    "family":"FAM-04",
+    "active":true,
+    "created_at":"2026-01-01T00:00:00"
+  },
+  {
+    "product_id":"PROD-2026-000010",
+    "sku":"SKU-0010",
+    "product_name":"Product 010",
+    "family":"FAM-05",
+    "active":true,
+    "created_at":"2026-01-01T00:00:00"
+  }
+]

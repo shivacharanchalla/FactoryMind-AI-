@@ -1,0 +1,42 @@
+[
+  {
+    "machine_id":"MACH-001",
+    "machine_name":"Machine 001",
+    "capability":"CUT",
+    "capacity_units_per_hour":10,
+    "status":"ACTIVE",
+    "crew_required":1
+  },
+  {
+    "machine_id":"MACH-002",
+    "machine_name":"Machine 002",
+    "capability":"DRILL",
+    "capacity_units_per_hour":15,
+    "status":"ACTIVE",
+    "crew_required":1
+  },
+  {
+    "machine_id":"MACH-003",
+    "machine_name":"Machine 003",
+    "capability":"ASSEMBLE",
+    "capacity_units_per_hour":19,
+    "status":"ACTIVE",
+    "crew_required":1
+  },
+  {
+    "machine_id":"MACH-004",
+    "machine_name":"Machine 004",
+    "capability":"CUT",
+    "capacity_units_per_hour":21,
+    "status":"ACTIVE",
+    "crew_required":1
+  },
+  {
+    "machine_id":"MACH-005",
+    "machine_name":"Machine 005",
+    "capability":"DRILL",
+    "capacity_units_per_hour":22,
+    "status":"ACTIVE",
+    "crew_required":1
+  }
+]

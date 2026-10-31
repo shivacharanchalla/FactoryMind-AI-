@@ -1,0 +1,53 @@
+{
+  "seed": 20261022,
+  "tables": {
+    "products": {
+      "rows": 10,
+      "sha256": "b8c90b036b2cf93304a910b42ea7f550391f5ee6be2716c6c4b19de9947bf07b"
+    },
+    "routings": {
+      "rows": 10,
+      "sha256": "6a903108b7f892ad51fd39bf429c5529f8382d28418fc81b9eb90cfde1b9ce19"
+    },
+    "machines": {
+      "rows": 5,
+      "sha256": "ae72e7ee250153287abe94e8cad6f4c22bd49b7573fbef4c30e5d260db69bd1f"
+    },
+    "machine_calendars": {
+      "rows": 70,
+      "sha256": "32f3ee37252cd2d95a94f6ce29686c3e3d38db4130372bb39835b4f187c9768f"
+    },
+    "materials": {
+      "rows": 20,
+      "sha256": "ddce94a3cd68606305da4e6ac4e6610c8e654579d22fc8b31468914d501dae0a"
+    },
+    "inventory_lots": {
+      "rows": 20,
+      "sha256": "b6a8d945d2d8ce1382219086a9c04319d3e784f8a7d8134f429ef310f520622d"
+    },
+    "product_materials": {
+      "rows": 10,
+      "sha256": "e6b04ec5936c0ebd293fcaa4b10dcf14171df067c332e1b76f04dc41ae54f087"
+    },
+    "production_orders": {
+      "rows": 25,
+      "sha256": "b09c9265e80d091f75b2eaf9744e0222b90ea2adb9c000eeadcc5b41c2529516"
+    },
+    "order_operations": {
+      "rows": 100,
+      "sha256": "881ef0deab160d3816c7502cd34565bb00d2f8d8c47d999c69b80d4c40de8ea5"
+    },
+    "machine_capabilities": {
+      "rows": 6,
+      "sha256": "4db2eab23032c8bc5168616a9733a606b08d3754b551d1631dd535f0d58f8f0e"
+    },
+    "changeover_matrix": {
+      "rows": 16,
+      "sha256": "a71026f232b68c59ed6dc48ed0c7982cd15178ac07ebfe5052803295e50fa439"
+    },
+    "ground_truth": {
+      "rows": 5,
+      "sha256": "0a3c891251303efd4eaf831f6ccd7920c52c42caa57779668441171b10d1f59b"
+    }
+  }
+}

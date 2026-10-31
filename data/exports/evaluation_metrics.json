@@ -1,0 +1,10 @@
+[
+  {
+    "scheduled_operations":100,
+    "unscheduled_operations":0,
+    "makespan_hours":148.6,
+    "machine_utilization_pct":11.89,
+    "on_time_delivery_pct":76.0,
+    "total_tardiness_hours":31.45
+  }
+]
